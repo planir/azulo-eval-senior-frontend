@@ -1,0 +1,5 @@
+$font: 'Inter', sans-serif !default;
+
+@forward "vuetify/lib/styles/main.sass" with (
+  $body-font-family: $font
+);

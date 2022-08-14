@@ -1,6 +1,10 @@
 # Azulo: Evaluación para el rol Desarrollador Senior Front End
 
 ## Instrucciones
+1. El proyecto solamente necesita de los comandos npm install y npm run dev
+1. Favor realizar todos sus cambios dentro de esta carpeta. Por favor no realice cambios en archivos fuera de esta carpeta, ni tampoco agregue otras carpetas fuera de esta.
+
+## Instrucciones
 1. Crear una carpeta 'role/front-end/senior/[gitusername]' reemplazando '[gitusername]' por el nombre de usuario del candidato en GitHub.
 1. Favor realizar todos sus cambios dentro de esta carpeta. Por favor no realice cambios en archivos fuera de esta carpeta, ni tampoco agregue otras carpetas fuera de esta.
 1. El resultado de su evaluación debe ser un ejemplo autosuficiente y autocontenido. Para compilar y construir los productos debe incluir un readme con las instrucciones suficientes para levantar el ambiente de ejemplo sin necesidad de corregir errores o instalar productos no mencionados en las instrucciones.
